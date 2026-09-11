@@ -10,7 +10,7 @@
 ## Contexto e Objetivos
 
 ### Contexto
-Escrever codigos que o computador entenda é simples, mas o desafio da engenharia de software é digitar um codigo legivel e facil de ser mantido por diversas pessoas. Neste projeto, utilizei o **NotebookLM** para criar um miniguia pratico focado em **Clean Code**.
+Escrever codigos que o computador compreenda é simples, mas o desafio da engenharia de software é digitar um codigo legivel e facil de ser gerido por diversas pessoas. Neste projeto, utilizei o **NotebookLM** para criar um miniguia pratico focado em **Clean Code**.
 
 ### Objetivos
 1. **Repertório de Fontes:** Selecionar conteúdos essenciais sobre Clean code para ter um repertório confiável sobre o tema.
