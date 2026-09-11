@@ -31,6 +31,7 @@ Para alimentar a base do NotebookLM, foram utilizadas as seguintes fontes:
 ## Engenharia de Prompts e "Cicatrizes"
 
 1. Com base nas fontes fornecidas, quais são as regras fundamentais do clean code:
+
  De forma geral, um **código limpo** (Clean Code) é caracterizado como um código **legível, testável e fácil de ser mantido**[1][2]. Para atingir esse nível de qualidade, as fontes destacam um conjunto de regras e boas práticas fundamentais:
 
 ### 1\. Boas Práticas de Escrita e Formação de Código
@@ -40,13 +41,15 @@ Para alimentar a base do NotebookLM, foram utilizadas as seguintes fontes:
 * **Uso consciente de comentários:** Devem ser tratados como "um mal necessário" e evitados ao máximo[4]. Antes de escrever um comentário, o ideal é tentar melhorar o próprio código[4]. Opte por comentar apenas trechos realmente complexos que exijam explicações adicionais, pois comentários mal administrados poluem o visual e podem ficar desatualizados com o tempo[4][7]. Para está resposta ele usou as fontes da Alura e da dio.
 
 2. cite as três principais:
+
 De forma bem resumida, as **três características fundamentais** que definem um código limpo segundo as fontes são[1]:
 
 1. **Legível**: O código deve ser fácil de entender e apresentar um fluxo de leitura contínuo[2][3]. Como os desenvolvedores passam muito mais tempo lendo código do que escrevendo, uma boa legibilidade reduz drasticamente o esforço e o cansaço mental[2][4].
 2. **Testável**: O código precisa ser estruturado de modo que permita a execução de testes automatizados[4][5]. Ter uma boa cobertura de testes traz segurança para realizar alterações e garante que os cenários previstos continuem funcionando como o esperado[4][6].
 3. **Fácil de ser mantido (Manutenível)**: O sistema deve permitir modificações e evoluções de forma simples e segura, seja para adicionar novas funcionalidades ou para refatorar a estrutura sem quebrar outras partes do software[4][7]. Para está resposta ele utilizou a fonte da Alura.
 
-3. monte um curto planejamento por ordem de prioridade para eu deixar um codigo em clean code de no maxico 5 linhas:
+3. monte um curto planejamento por ordem de prioridade para eu deixar um codigo em clean code de no máximo 5 linhas:
+
 * **Garantir testes automatizados:** Crie testes de unidade para alterar a estrutura com segurança sem quebrar o sistema[1].
 * **Definir nomes significativos:** Ajuste variáveis, funções e classes com nomes precisos e diretos que revelem sua intenção[4][5].
 * **Eliminar duplicações e simplificar:** Extraia métodos e classes para dividir funções extensas e remover código repetido[6].
