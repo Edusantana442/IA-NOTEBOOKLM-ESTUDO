@@ -85,6 +85,6 @@ Em resumo o Clean Code é uma filosofia de desenvolvimento focada em criar softw
 ### 3. Prompts Reutilizaveis
 
 Use estes comandos no NotebookLM para revisoes futuras:
-1. quero que vc faça um resumo estruturado do que é clean code em 5linhas e sem ter topicos
+1. Quero que vc faça um resumo estruturado do que é clean code em 5linhas e sem ter topicos
 2. Com base nas fontes fornecidas, quais são as regras fundamentais do clean code
 3. O que são Code Smells segundo as fontes? Liste 3 exemplos práticos e suas soluções.
