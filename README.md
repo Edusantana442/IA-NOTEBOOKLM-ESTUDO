@@ -56,7 +56,7 @@ De forma bem resumida, as **três características fundamentais** que definem um
 * **Ajustar formatação e remover poluição:** Organize a indentação visual e elimine comentários desnecessários ou desatualizados[5].
 * **Refatorar e aplicar a Regra do Escoteiro:** Melhore a estrutura continuamente, deixando o código sempre mais limpo a cada alteração[10][11]. Pra está resposta ele utilizou a fonte da Dio e o pdf.
 
-Fiz as perguntas e percebi que elas estavam ficando grandes demais, então na última pergunta limitei a resposta para 5 linhas, o bot entendeu erroneamente que era para ser feito em 5 tópicos que mesmo com o erro de inter pretação da parte dele encurtou bastante a resposta que foi gratificante.
+Fiz as perguntas e percebi que elas estavam ficando grandes demais, então na última pergunta limitei a resposta para 5 linhas, o bot entendeu erroneamente que era para ser feito em 5 tópicos que mesmo com o erro de interpretação da parte dele encurtou bastante a resposta que foi gratificante.
 
 ---
 
